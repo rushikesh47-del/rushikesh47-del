@@ -1,99 +1,109 @@
 
-<h1 align="center">Hi, I'm Rushikesh Sakat</h1>
+<div align="center">
 
-<h3 align="center">Frontend Developer | Web Developer | UI/UX Enthusiast</h3>
+# Rushikesh Sakat
 
-<p align="center">
-  I build responsive websites and practical web applications
-  with a focus on clean design, usability, and performance.
-</p>
+### Frontend Developer · Web Developer · UI/UX Enthusiast
 
-<p align="center">
-  <a href="https://github.com/rushikesh47-del">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com/rushikesh47-del?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-Projects-2563EB?style=flat" alt="Explore Projects" />
-  </a>
-</p>
+Building modern, responsive, and user-focused digital experiences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rushikesh47-del)
+[![Projects](https://img.shields.io/badge/Explore_Projects-84CC16?style=flat-square&logoColor=black)](https://github.com/rushikesh47-del?tab=repositories)
+
+</div>
 
 ---
 
 ## About Me
 
-- Interested in frontend development and modern web technologies.
-- Building responsive, user-friendly digital experiences.
-- Learning and improving through practical projects.
-- Interested in collaboration, freelance work, and new opportunities.
+I'm a web developer passionate about creating intuitive interfaces,
+responsive websites, and practical digital products.
+
+- Developing with React, Next.js, and JavaScript.
+- Building interactive user interfaces and web applications.
+- Exploring backend development, APIs, and deployment.
+- Improving my skills through hands-on projects.
+- Open to collaboration and freelance opportunities.
 
 ## Tech Stack
 
-**Frontend**
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Featured Projects
 
-### 01. CodeCast — Real-Time Collaborative Code Editor
+### 01 — CodeCast
+**Real-Time Collaborative Code Editor**
 
-A collaborative coding environment that enables multiple users to work together in real time.
+A collaborative coding platform designed to let multiple users
+work together in a shared coding environment.
 
-- Real-time collaboration using Socket.IO
-- Interactive code editor with CodeMirror
+- Real-time synchronization with Socket.IO
 - Room-based collaboration
+- Code editing with CodeMirror
 
-**Technologies:** React, Node.js, Socket.IO, CodeMirror
+**Stack:** React · Node.js · Socket.IO · CodeMirror
 
-[View Repository](https://github.com/rushikesh47-del)
+[Explore my repositories →](https://github.com/rushikesh47-del?tab=repositories)
 
-### 02. URU — IT Solutions & SaaS
+### 02 — URU
+**IT Solutions & SaaS**
 
-A digital technology brand focused on professional websites, web applications, and digital products.
+A digital technology brand focused on professional websites,
+web applications, and digital experiences for businesses.
 
-- Responsive web experiences
-- Modern interface design and animations
+- Responsive web development
+- Modern UI and interactive animations
 - Business-focused digital solutions
 
-**Technologies:** Next.js, React, Tailwind CSS, GSAP
+**Stack:** Next.js · React · Tailwind CSS · GSAP
 
-[View Repository](https://github.com/rushikesh47-del)
+[Explore my repositories →](https://github.com/rushikesh47-del?tab=repositories)
 
-### 03. Morrow — Web Application
+### 03 — Morrow
+**Web Application**
 
-A web application project focused on building a practical user experience with authentication and backend integration.
+A web application project focused on authentication,
+user experience, and backend integration.
 
-**Technologies:** JavaScript, Node.js, Express, Firebase
+**Stack:** JavaScript · Node.js · Express · Firebase
 
-[View Repository](https://github.com/rushikesh47-del)
+[Explore my repositories →](https://github.com/rushikesh47-del?tab=repositories)
+
+## GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rushikesh47-del&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh47-del&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+
+</div>
+
+## Let's Connect
+
+- **GitHub:** [rushikesh47-del](https://github.com/rushikesh47-del)
+- **Portfolio:** Add your live portfolio URL
+- **LinkedIn:** Add your LinkedIn profile URL
+- **Email:** Add your professional email address
 
 ---
 
-## Currently Improving
+<div align="center">
 
-- Advanced React and Next.js development
-- Backend development and API integration
-- UI/UX design and web performance
-- Deployment and production workflows
+*Learning continuously. Building thoughtfully. Improving every day.*
 
-## Connect With Me
-
-- GitHub: [@rushikesh47-del](https://github.com/rushikesh47-del)
-- Portfolio: [https://new-portfolio-nine-drab.vercel.app/)
-- LinkedIn: [www.linkedin.com/in/rushikesh-sakat)
-
----
-
-<p align="center">
-  <i>Building, learning, and improving — one project at a time.</i>
-</p>
+</div>
