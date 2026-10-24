@@ -1,18 +1,15 @@
 
+
 <div align="center">
-
-# Rushikesh Sakat
-
-### Frontend Developer · Web Developer · UI/UX Enthusiast
-
-Building modern, responsive, and user-focused digital experiences.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rushikesh47-del)
-[![Projects](https://img.shields.io/badge/Explore_Projects-84CC16?style=flat-square&logoColor=black)](https://github.com/rushikesh47-del?tab=repositories)
-
+  <img
+    src="./github-banner.png"
+    alt="Rushikesh Sakat - Developer Profile Banner"
+    width="100%"
+  />
 </div>
 
----
+<br/>
+
 
 ## About Me
 
