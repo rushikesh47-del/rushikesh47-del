@@ -93,9 +93,10 @@ user experience, and backend integration.
 ## Let's Connect
 
 - **GitHub:** [rushikesh47-del](https://github.com/rushikesh47-del)
-- **Portfolio:** Add your live portfolio URL
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **Portfolio:** https://new-portfolio-nine-drab.vercel.app/
+- **LinkedIn:** www.linkedin.com/in/rushikesh-sakat
+- **Company URL:** https://uru-nine.vercel.app/
+- **Email:**
 
 ---
 
